@@ -11,3 +11,15 @@
 # Y = 12
 # Z = -7
 # Ответ: Наибольшее число 12.
+
+
+def get_max(x: int, y: int, z: int) -> int:
+    return max([x, y, z])
+
+
+if __name__ == "__main__":
+    x = int(input("Введите первое число "))
+    y = int(input("Введите второе число "))
+    z = int(input("Введите третье число "))
+
+    print(f"Максимальное число: {get_max(x, y, z)}")

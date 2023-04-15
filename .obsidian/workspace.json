@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a4e675f3323edf89",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7333d5767434ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feca9eb915189388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Курс повышения квалификации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05f524c270ad9479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Занятие 2/Лекция.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f2d84d1da456f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Курс повышения квалификации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f401d139a3aaa36f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ca7080178ede0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9e14bc747195c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6fabb4851054c05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d9b5856f301cfdf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a46b6458f3660cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ad45626da92ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4313d9d5ed38ea7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Занятие 2/Лекция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "275eac3163b45896",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Занятие 2/Лекция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a53f834d36c23bf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "564bf4856fd5544f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Занятие 2/Лекция.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05f524c270ad9479",
+  "lastOpenFiles": [
+    "Занятие 2/manual/lection_2.pdf",
+    "Занятие 2/homework/task21.py",
+    "Занятие 2/homework/task24.py",
+    "Занятие 2/homework/task20.py",
+    "Занятие 2/homework/task23.py",
+    "Занятие 2/homework/task22.py",
+    "Занятие 2/homework/task19.py",
+    "Занятие 2/classwork/world_cosmonautics_day.py",
+    "Занятие 2/classwork/task15.py",
+    "Занятие 2/classwork/task14.py",
+    "Занятие 2/classwork/task13.py",
+    "Занятие 2/cheat_sheet/command_linux.jpg",
+    "Занятие 1/Лекция.md",
+    "Занятие 2/Лекция.md",
+    "Курс повышения квалификации.md"
+  ]
+}
