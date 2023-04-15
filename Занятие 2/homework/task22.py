@@ -3,3 +3,13 @@
 # A → B,   B → C,   Z → A
 # Т.е. заголовок функции будет def code(string, n):
 # В качестве результата печатается сдвинутая строка.
+
+def code(string: str, n: int) -> str:
+    return ''.join([chr(ord(ch) + 1) for ch in string])
+
+
+if __name__ == "__main__":
+    string = input("Введите строку ")
+    n = int(input("Введите смещение "))
+
+    print(code(string, n))
